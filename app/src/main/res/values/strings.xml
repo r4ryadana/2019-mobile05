@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">StarterChapter05</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello</string>
+    <string name="text_pushup">Pan exercise in which a person lies facing the floor and, keeping their back straight, raises their body by pressing down on their hands.</string>
+    <string name="text_handstand">An act of balancing on ones hands with ones feet in the air or against a wall."</string>
+    <string name="text_dips">put or let something down quickly or briefly in or into (liquid).</string>
 </resources>
